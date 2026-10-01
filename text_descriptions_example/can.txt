@@ -1,0 +1,20 @@
+2D: a top lid, a pull-tab, and a side wall
+2D: a sealed top and a body cylinder
+2D: an opener mechanism and a container shell
+2D: an upper rim and a continuous side surface
+2D: a cover plate, a body wrapper, and a bottom edge
+2D: a circular top view and a rectangular side profile
+2D: a pop-top ring and a vertical curved surface
+2D: a cylindrical silhouette with a metallic rim finish
+2D: an upper drinking hole and a smooth lateral shell
+2D: a tapered top neck and a main vertical body
+3D: a perfect cylinder body and a flat top plane
+3D: a tubular side wall, a top disk, and a bottom disk
+3D: a vertical axis symmetry and a constant radius geometry
+3D: a smooth convex hull and planar extremities
+3D: a geometric column and a closed flat cap
+3D: a right circular cylinder with two parallel circular bases
+3D: a uniform tubular volume with a constant cross-section
+3D: a geometric solid formed by revolving a rectangle around an axis
+3D: a point cloud distribution on a cylindrical shell and flat ends
+3D: a vertically elongated cylinder with a slight inward taper at the top

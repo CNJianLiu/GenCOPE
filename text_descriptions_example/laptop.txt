@@ -1,0 +1,20 @@
+2D: a display screen, a keyboard, and a palm rest
+2D: a monitor panel and a base panel
+2D: a visual display and an input interface
+2D: a bezel, a screen, and a key grid
+2D: an upper lid and a lower chassis
+2D: a rectangular viewport and a horizontal typing surface
+2D: a flat upper display and a lower trackpad area
+2D: a split-fold interface with a screen and a button layout
+2D: a bezel-enclosed screen and a wrist-supporting base
+2D: a top shell profile and a bottom component housing
+3D: two rectangular planar slabs and a connecting hinge
+3D: a thin upper prism and a thicker base prism
+3D: a screen plane, a keyboard plane, and an opening angle
+3D: an L-shaped geometric structure and flat surfaces
+3D: a movable top plate and a static bottom plate
+3D: a dihedral angle formed by two thin rectangular volumes
+3D: two flat shells sharing a common rotational axis
+3D: a wide aspect ratio top plate and a matching base slab
+3D: a dual-plane geometry with variable relative orientation
+3D: a sandwich-like structure of two low-profile rectangular prisms

@@ -1,0 +1,20 @@
+2D: a top rim and a container basin
+2D: an inner surface, an outer wall, and a mouth
+2D: an open aperture and a body wall
+2D: a vessel edge and a hollow interior
+2D: a surrounding lip and a deep container
+2D: a circular top boundary and a curved side profile
+2D: an upper orifice and a rounded storage volume
+2D: a peripheral top edge and a recessed center
+2D: a wide entrance and a smooth inner receptacle
+2D: a top ring silhouette and a tapering lower wall
+3D: a hemispherical shell and an open top circle
+3D: a concave inner surface and a convex outer surface
+3D: a geometric rim ring, a curved wall, and a flat base disk
+3D: a parabolic geometry and a central void
+3D: a rotationally symmetric curve and a hollow cavity
+3D: a spherical segment with a wide circular truncation
+3D: a radially symmetric shell with a variable radius
+3D: a truncated hollow sphere with a stable bottom support
+3D: a curved surface defined by a central axis of revolution
+3D: a bowl-shaped volume with an open upper face and a closed base

@@ -1,0 +1,20 @@
+2D: a lens and a main body
+2D: an optic assembly, a housing case, and control buttons
+2D: a front objective and a rear chassis
+2D: a capturing sensor opening and a grip block
+2D: a distinct lens ring and a device frame
+2D: a rear display panel and a front-facing barrel
+2D: a top control interface and a main rectangular enclosure
+2D: a small viewfinder eyepiece and a structural camera body
+2D: a circular lens mount and a flanking hand-grip area
+2D: a central optical aperture and a surrounding protective frame
+3D: a rectangular prism body and a cylindrical lens protrusion
+3D: a box-like structure and a forward-facing cylinder
+3D: a main cuboid and a circular extrusion
+3D: a planar back surface and a protruding tube geometry
+3D: a thick base block, a lens barrel, and a top bulge
+3D: an asymmetric cuboid with an orthogonal cylindrical attachment
+3D: a large flat rectangular face and a perpendicular forward tube
+3D: a stepped block geometry with a central protruding cylinder
+3D: a rounded-edge rectangular volume and a concentric lens cylinder
+3D: a base cuboid prism joined with a front-end circular extrusion

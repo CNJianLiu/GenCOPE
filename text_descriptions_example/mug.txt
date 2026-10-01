@@ -1,0 +1,20 @@
+2D: a side handle and a cup body
+2D: a rim, a handle, and a container wall
+2D: a holding grip and a main vessel
+2D: a mouth opening and an attached ear
+2D: a liquid container and a finger loop
+2D: a circular top edge and a lateral handle attachment
+2D: a cylindrical exterior and a side-mounted loop
+2D: a hollow center and a flanking structural grip
+2D: an upper perimeter and an integrated C-shaped sidepart
+2D: a vertical storage cylinder and a side grasping handle
+3D: a hollow cylindrical body and a semi-circular handle
+3D: an open cylinder, a torus-segment handle, and a bottom disk
+3D: a tubular shell and a curved loop attachment
+3D: a deep geometric cavity and a side protrusion
+3D: an inner void, an outer cylinder wall, and a grip arc
+3D: a rotationally symmetric base and an asymmetric side handle
+3D: a cylindrical shell joined with a curved geometric pipe
+3D: a flat-bottomed cylinder and a projecting elliptical arc
+3D: a vertical tube with an orthogonal loop structure
+3D: a concave cylindrical volume with a radially-offset protrusion

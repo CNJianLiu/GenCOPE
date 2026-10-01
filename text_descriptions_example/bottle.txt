@@ -1,0 +1,20 @@
+2D: a cap, a neck, and a main body
+2D: a top closure and a holding container
+2D: a lid, a shoulder, and a body
+2D: a mouthpiece and a vessel body
+2D: a sealing top, a narrowing neck, and a base container
+2D: a head opening, a slender neck, and a storage volume
+2D: a removable top part and a hollow main cavity
+2D: a nozzle section, a sloped collar, and a vertical reservoir
+2D: a circular rim, a tapering upper section, and a cylindrical foundation
+2D: an upper sealing interface and an elongated primary container
+3D: a cylindrical body and a narrow upper cylinder
+3D: a rotational symmetric hull and a tapering top
+3D: a large bottom cylinder, a transition cone, and a small neck cylinder
+3D: a convex body volume and a flat bottom plane
+3D: an elongated geometric tube and a capped top end
+3D: a composite of two co-axial cylinders of different radii
+3D: a surface of revolution with a narrow throat and a wider base
+3D: a truncated cone stacked atop a larger cylindrical volume
+3D: a hollow shell characterized by a vertical axis of symmetry
+3D: a thin-walled geometric solid with a wide body and a constricted orifice
