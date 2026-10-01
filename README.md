@@ -1,6 +1,6 @@
-# Diff9D: Diffusion-Based Domain-Generalized Category-Level 9DoF Object Pose Estimation
+# GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking
 
-This is the PyTorch implementation of paper **[Diff9D](https://ieeexplore.ieee.org/document/10930708)** published in <b>*IEEE TPAMI*</b> by <a href="https://cnjliu.github.io/">J. Liu</a>, <a href="http://robotics.hnu.edu.cn/info/1071/1265.htm">W. Sun</a>, <a href="https://github.com/CNJianLiu/Diff9D">H. Yang</a>, <a href="https://github.com/CNJianLiu/Diff9D">P. Deng</a>, <a href="https://github.com/CNJianLiu/Diff9D">C. Liu</a>, <a href="https://scholar.google.com.hk/citations?user=stFCYOAAAAAJ&hl=zh-CN&oi=ao">N. Sebe</a>, <a href="https://sites.google.com/view/rahmaniatlu">H. Rahmani</a>, and <a href="https://ajmalsaeed.net/">A. Mian</a>. Diff9D is a simple yet effective prior-free domain-generalized (sim2real) category-level 9DoF object pose generator based on diffusion.
+This is the PyTorch implementation of paper **[GenCOPE](https://ieeexplore.ieee.org/document/10930708)** published in <b>*NeurIPS 2026*</b> by <a href="https://cnjliu.github.io/">J. Liu</a>, <a href="https://baike.baidu.com/item/%E5%AD%99%E7%82%9C/241837">W. Sun</a>, <a href="https://github.com/CNJianLiu/GenCOPE">Z. Dai</a>, <a href="https://scholar.google.com/citations?user=rhQSwuoAAAAJ&hl=zh-CN">H. Yang</a>, <a href="https://github.com/CNJianLiu/GenCOPE">J. Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=stFCYOAAAAAJ&hl=zh-CN&oi=ao">N. Sebe</a>, and <a href="https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en">N. Zhao</a>. GenCOPE is a lightweight Syn2Real generalized category-level object pose estimation method with robotic integration for real-time robotic picking.
 
 <p align="center">
 <img src="image/Fig0.jpg" alt="intro" width="100%"/>
@@ -13,7 +13,7 @@ Our code has been trained and tested with:
 - PyTorch 1.12.0
 - CUDA 11.3
 
-Complete installation can refer to our [environment](https://github.com/CNJianLiu/Diff9D/blob/main/environment.yaml).
+Complete installation can refer to our [environment](https://github.com/CNJianLiu/GenCOPE/blob/main/environment.yaml).
 
 ## Datasets
 Download NOCS dataset ([CAMERA_train](http://download.cs.stanford.edu/orion/nocs/camera_train.zip), [Real_test](http://download.cs.stanford.edu/orion/nocs/real_test.zip),
