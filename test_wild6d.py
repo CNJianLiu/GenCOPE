@@ -39,7 +39,7 @@ parser.add_argument('--data', type=str, default='val', help='val, real_test')
 parser.add_argument('--data_dir', type=str, default='/mnt/HDD1/dataset/Wild6D/test_set', help='data directory')
 parser.add_argument('--n_cat', type=int, default=6, help='number of object categories')
 parser.add_argument('--nv_prior', type=int, default=1024, help='number of vertices in shape priors')
-parser.add_argument('--model', type=str, default='/mnt/HDD6/dzq/GenCOPE/log/backbone/GenCOPE', help='resume from saved model')
+parser.add_argument('--model', type=str, default='log/backbone/GenCOPE', help='resume from saved model')
 parser.add_argument('--n_pts', type=int, default=1024, help='number of foreground points')
 parser.add_argument('--img_size', type=int, default=192, help='cropped image size')
 parser.add_argument('--gpu', type=str, default='2', help='GPU to use')
@@ -65,7 +65,7 @@ norm_color = transforms.Compose(
 cat_names = ['bottle', 'bowl', 'camera', 'can', 'laptop', 'mug']
 
 if opt.result_dir is None:
-    result_dir = osp.join('/mnt/HDD6/dzq/GenCOPE/results/Wild6D_results/', opt.model.split('/')[-1], opt.select_class)
+    result_dir = osp.join('results/Wild6D_results/', opt.model.split('/')[-1], opt.select_class)
 else:
     result_dir = opt.result_dir
 
