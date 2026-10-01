@@ -34,21 +34,21 @@ data
 ## Training
 To train the model, remember to download the synthetic CAMERA25 dataset and organize & preprocess it properly.
 
-train.py is the main file for training. You can start training using the following command:
+train.py is the main file for training. We can start training using the following command:
 ```
-python train.py --gpus 0 --config config/diffusion_pose.yaml
+python train.py --gpus 0 --config config/GenCOPE.yaml
 ```
 
 ## Evaluation
 We can quickly evaluate the real-world REAL275 dataset using the following command:
 ```
-python test.py --config config/diffusion_pose.yaml
+python test.py --config config/GenCOPE.yaml
 ```
 The real-world Wild6D dataset can be evaluated using the following command:
 ```
 bash test_wild6d.sh
 ```
-Note that there is a small mistake in the original evaluation code of [NOCS](https://github.com/hughw19/NOCS_CVPR2019/blob/dd58dbf68feede04c3d7bbafeb9212af1a43422f/utils.py#L252) for the 3D IOU metrics. We thank [CATRE](https://github.com/THU-DA-6D-Pose-Group/CATRE) and [SSC-6D](https://github.com/swords123/SSC-6D) for pointing out this. We have revised it and recalculated the metrics of some methods. The revised evaluation code is given in our released [code](https://github.com/CNJianLiu/GenCOPE/blob/1ca38c2bd3f5e896470ad76dcb3ba8e64a2aeff2/utils/evaluation_utils.py#L128).
+Note that there is a small mistake in the original evaluation code of [NOCS](https://github.com/hughw19/NOCS_CVPR2019/blob/dd58dbf68feede04c3d7bbafeb9212af1a43422f/utils.py#L252) for the 3D IOU metrics. We thank [CATRE](https://github.com/THU-DA-6D-Pose-Group/CATRE) and [SSC-6D](https://github.com/swords123/SSC-6D) for pointing out this. We have revised it and recalculated the metrics of some methods. The revised evaluation code is given in our released [code](https://github.com/CNJianLiu/GenCOPE/blob/baa09884bebd2612bffcb805f833a954c2b0cd3d/utils/evaluation_utils.py#L128).
 
 
 ## Citation
