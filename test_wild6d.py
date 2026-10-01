@@ -45,7 +45,7 @@ parser.add_argument('--img_size', type=int, default=192, help='cropped image siz
 parser.add_argument('--gpu', type=str, default='2', help='GPU to use')
 parser.add_argument('--select_class', type=str, default='bowl', help='resume from saved model')
 parser.add_argument('--only_eval', action='store_true')
-# parser.add_argument('--use_nocs_map', action='store_true')
+parser.add_argument('--use_nocs_map', action='store_true')
 parser.add_argument('--implicit', action='store_true')
 parser.add_argument('--max_point', action='store_true')
 parser.add_argument('--with_recon', action='store_true')
