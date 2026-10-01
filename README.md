@@ -9,9 +9,9 @@ This is the PyTorch implementation of paper **[GenCOPE](https://ieeexplore.ieee.
 ## Installation
 Our code has been trained and tested with:
 - Ubuntu 20.04
-- Python 3.8.15
-- PyTorch 1.12.0
-- CUDA 11.3
+- Python 3.8.20
+- PyTorch 1.13.0
+- CUDA 11.7
 
 Complete installation can refer to our [environment](https://github.com/CNJianLiu/GenCOPE/blob/main/environment.yaml).
 
