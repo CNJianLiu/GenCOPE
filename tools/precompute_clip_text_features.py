@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-"""
-预计算 CLIP 文本特征并保存为 .npz 文件。
-用法:
-    python tools/precompute_clip_text_features.py --text_dir text_descriptions_example --out ./text_features.npz --device cpu
-
-输出格式（.npz）键名示例:
-    bottle_2D -> (N, D) numpy array
-    bottle_3D -> (M, D) numpy array
-"""
 import os
 import argparse
 import clip
