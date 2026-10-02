@@ -19,8 +19,8 @@ bn:
   decay_step: 4000
   bnm_clip: 0.01
 
-max_epoch : 1000
-num_mini_batch_per_epoch: 2000
+max_epoch : 100
+num_mini_batch_per_epoch: 20000
 
 num_category: 6
 num_prior: 1024
